@@ -1,5 +1,4 @@
 # Birthdate_calculator
-counts using secodns cuz i was bored
 
 Honestly what am i supposted to put in here???
 specs?
